@@ -1,0 +1,11 @@
+
+access_key: HMZADZVBMNECJLSNKYRO
+access_secret: lzV2bJ00RdlNUAiLqTf0i8EUwYL5KGmS1am2pjqv
+zone: pek3a
+host: qingstor.com
+port: 443
+protocol: https
+
+log_level: error
+
+
